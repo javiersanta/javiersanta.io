@@ -1,0 +1,13 @@
+$primary-font: 400 30px "Raleway", "sans-serif";
+$secondary-font: 800 100px "ADAM.CG PRO", "sans-serif";
+$medium-font: 400 22px "Raleway", "sans-serif";
+$small-font: 400 18px "Raleway", "sans-serif";
+
+@font-face {
+  font-family: 'ADAM.CG PRO';
+  src: url('../fonts/ADAM.CG PRO.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/ADAM.CG PRO.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/ADAM.CG PRO.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/ADAM.CG PRO.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/ADAM.CG PRO.ttf')  format('truetype'), /* Safari, Android, iOS */
+}

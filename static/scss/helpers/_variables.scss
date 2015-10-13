@@ -1,0 +1,17 @@
+// LAYOUT
+@import 'bourbon';
+@import 'neat';
+$grid-value: 1170px;
+
+// COLOURS
+$primary-background: #FFFFFF;
+$secondary-background: #000000;
+$tertiary-background: #333333;
+
+$primary-heading-color: #000000;
+$primary-main-color: #000000;
+
+// MEDIA QUERIES
+$mobile: 580px;
+$small: 768px;
+$medium: 980px;
